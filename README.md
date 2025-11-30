@@ -185,7 +185,7 @@ Este archivo no debe versionarse (está incluido en `.gitignore`).
 
 ## 👤 Autor
 
-Desarrollado como trabajo práctico individual para UADE.
+Desarrollado como trabajo práctico individual para UADE por Marcos Cavicchia
 
 ## 🤖 Uso de IA
 
